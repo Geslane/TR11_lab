@@ -1,5 +1,5 @@
 # TR11_lab
-Código referente ao trabalho 4
+Código referente ao trabalho 4, main teste.
 
 # Como baixar:
 Para baixar é necessário estar no repositório, ir onde tem "<>code" "<>code" e download ZIP, após baixar é só extrair os arquivos.
